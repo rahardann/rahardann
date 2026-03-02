@@ -6,21 +6,16 @@
   A highly motivated and adaptable Information Systems student with a strong passion for information technology development. Skilled in teamwork, communication, and problem-solving with hands-on experience in developing web applications using Laravel, Blade, React, Tailwind, and managing databases efficiently with MySQL. Currently deepening expertise in web development to build high-performance, responsive websites with intuitive user experiences.
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Driver.gif" width="300px">
-</div>
-
 ---
-<p align="center">
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/assets/bar_neon.gif?raw=true" width="100%">
-</p>
 
 ### <p align="center">🌱 Currently Learning</p>
 
 <p align="center">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" /> </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" /></a>
 </p>
 
 <br>
@@ -47,11 +42,17 @@
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/assets/bar_neon.gif?raw=true" width="100%">
 </p>
 
-### <p align="center">📊 My GitHub Stats</p>
+### <p align="center">📊 GitHub Stats</p>
+<p align="center">
+  <a href="https://github.com/rahardann">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahardann&theme=algolia" alt="GitHub Streak" />
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahardann&layout=compact&theme=algolia" alt="Top Languages"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/rahardann">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahardann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahardann&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -64,4 +65,4 @@
   <a href="mailto:rahardan313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
----
+### <p align="center">Thanks for visiting my profile! Feel free to follow or connect! </p>
