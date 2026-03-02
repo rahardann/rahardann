@@ -60,6 +60,7 @@
  
 ### <p align="center">📫 Let's Connect!</p>
 <p align="center">
+  <a href="https://ahmadrahardan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ahmad-rahardan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/rahardan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:rahardan313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
